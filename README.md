@@ -1,39 +1,37 @@
-# mern-school-management-system-web-mobile-app
-MERN School Management System – Web &amp; Mobile App. A complete full-stack school management solution built with MongoDB, Express.js, React.js, and Node.js. Designed for both web and mobile platforms, it enables schools to manage academics and administration digitally — including attendance tracking, timetable scheduling, exam management, notices more
+# 📚 MERN School Management System – Web & Mobile App
 
-
-# MERN School Management System – Web & Mobile App
-
-A complete **School Management System** built with the **MERN Stack** (**MongoDB, Express.js, React.js, Node.js**) for both **Web and Mobile platforms**.  
-This project was developed and deployed as my **first live client project** for **R.P.P. Middle School, New Ramnagar, Madhya Pradesh**.  
-It is actively used by teachers and staff for managing academic and administrative work digitally.
+A **complete digital school management solution** built using the **MERN Stack** (**MongoDB, Express.js, React.js, Node.js**) with **React Native** for mobile.  
+Designed for **both Web and Mobile platforms**, this project was delivered as my **first real-world client project** for **R.P.P. Middle School, New Ramnagar, Madhya Pradesh**.  
+It is currently in **active daily use** by teachers and staff to manage academics, administration, and parent communication.
 
 ---
 
 ## 📖 Project Overview
 
-The **School Management System** is designed to digitize school operations and improve efficiency.  
-It provides **role-based access** for:
-- **School Owner** – Register schools, manage teachers and students, create timetables, publish notices, and manage exams.
-- **Teachers** – Manage classes, attendance, timetable, exams, and communicate with parents.
-- **Students** – View timetable, notices, and results.
+The **School Management System** aims to:
+- **Digitize school operations**
+- **Improve administrative efficiency**
+- **Strengthen communication** between school, teachers, students, and parents
 
-This system is available as:
-- **Web Application** – Responsive, optimized for desktop & mobile browsers.
-- **Mobile App** – Android APK version for teachers, students, and school admins.
+### 🎯 Role-Based Access
+- **🏫 School Owner** – Register school, manage teachers & students, create timetables, publish notices, manage exams  
+- **👩‍🏫 Teachers** – Record attendance, manage subjects, exams, timetables, communicate with parents  
+- **🎓 Students** – View timetable, notices, results, and exam schedules  
+- **👪 Parents** – Access an **AI Chatbot** for instant updates on their child’s performance, attendance, and timetable  
 
 ---
 
-## ✨ Features
+## ✨ Core Features
 
-- 🔐 **Role-Based Login** (School Owner, Teacher, Student)  
-- 📅 **Timetable Management** – Create and update class schedules.  
-- 📝 **Examination Management** – Setup and manage exams.  
-- 📢 **Notice Board** – Publish announcements for students and teachers.  
-- 📊 **Attendance Tracking** – Record and monitor student attendance.  
-- 🗂 **Class & Subject Management** – Easily manage curriculum structure.  
-- 📲 **Mobile App Support** – Access features from anywhere.  
-- 🌐 **Multi-language Support** – English and Hindi.  
+- 🔐 **Role-Based Login** – Owner, Teacher, Student, Parent  
+- 🤖 **AI Chatbot for Parents** – Ask about student performance, attendance, and schedules in real time  
+- 📅 **Timetable Management** – Create & update class schedules  
+- 📝 **Examination Management** – Setup & manage exams  
+- 📢 **Notice Board** – Publish announcements for students & teachers  
+- 📊 **Attendance Tracking** – Record and monitor attendance  
+- 🗂 **Class & Subject Management** – Organize curriculum structure  
+- 📲 **Mobile App Support** – Access features anywhere  
+- 🌐 **Multi-language Support** – English & Hindi  
 
 ---
 
@@ -44,21 +42,19 @@ This system is available as:
 **Database:** MongoDB  
 **Mobile App:** React Native  
 **Authentication:** JWT + Password Hashing  
-**Hosting/Deployment:** Render / Cloud Provider  
+**Hosting:** Render / Cloud Provider  
 
 ---
 
 ## 📸 Screenshots
 
-> Add your screenshots in the `/screenshots` folder and replace file names below.
-
-**Web Dashboard**
+**Web Dashboard**  
 ![Web Dashboard](./screenshots/web-dashboard.png)
 
-**Mobile App – Home Screen**
+**Mobile App – Home Screen**  
 ![Mobile App Home](./screenshots/mobile-home.png)
 
-**Mobile App – Timetable**
+**Mobile App – Timetable**  
 ![Mobile App Timetable](./screenshots/mobile-timetable.png)
 
 ---
@@ -75,34 +71,34 @@ This system is available as:
 
 ## 📱 Download Mobile App
 
-You can download and test the Android version of the app:  
-[📥 **Download APK**](./apk/myschool.apk)
+📥 [**Download Android APK**](./apk/myschool.apk)
 
 ---
 
 ## 🚀 Live Status
 
-✅ **Currently in Active Use** at R.P.P. Middle School, New Ramnagar, Satna, Madhya Pradesh.  
-Teachers and staff use it daily for academic and administrative tasks.
+✅ **Active Use** at *R.P.P. Middle School, New Ramnagar, Satna, Madhya Pradesh*  
+Teachers and staff use it **daily** for academic and administrative work.
 
 ---
 
 ## 🏆 Achievements
 
-- Recognized with **two official appreciation certificates** from the school for technical contribution.
-- Delivered as a **real-world live project** to my first client.
-- Fully functional across web and mobile platforms.
+- 🏅 Received **two official appreciation certificates** from the school  
+- 💼 Delivered as a **real-world live project** to my first client  
+- 📱 Fully functional across **Web and Mobile**  
 
 ---
 
 ## 📩 Contact
 
 **Pavan Kumar Barman**  
-Full Stack MERN Developer | AI & Web Solutions  
+💻 Full Stack MERN Developer | AI & Web Solutions  
 📧 Email: your-email@example.com  
 🔗 LinkedIn: [linkedin.com/in/your-profile](#)  
 💻 GitHub: [github.com/your-username](#)
 
 ---
 
-> **Note:** This repository is for **showcase purposes** only. Source code is not public. Includes APK, screenshots, and certificates for demonstration.
+> **Note:** This repository is for **showcase purposes** only. Source code is not public.  
+> Includes APK, screenshots, and certificates for demonstration.
